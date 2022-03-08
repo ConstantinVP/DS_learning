@@ -41,7 +41,7 @@
 
 
 ### Результаты:  
-....
+[Представлены здесь](https://github.com/ConstantinVP/DS_learning/blob/master/Project%200/game_v2.ipynb)
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
