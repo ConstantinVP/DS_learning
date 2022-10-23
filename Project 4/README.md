@@ -51,7 +51,7 @@
 
 
 ### Результаты:  
-[Представлены здесь](https://github.com/ConstantinVP/DS_learning/blob/master/Project%204/Project 4.ipynb)
+[Представлены здесь](https://github.com/ConstantinVP/DS_learning/blob/master/Project%204/Project_4.ipynb)
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
