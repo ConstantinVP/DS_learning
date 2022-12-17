@@ -52,7 +52,7 @@
 
 
 ### Результаты:  
-[Представлены здесь](https://github.com/ConstantinVP/DS_learning/blob/master/Project%205/Project_5.ipynb)
+[Представлены здесь](https://github.com/ConstantinVP/DS_learning/blob/master/Project%205/Project-5.ipynb)
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
