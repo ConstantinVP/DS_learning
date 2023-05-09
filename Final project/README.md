@@ -35,7 +35,7 @@
 
 ### Краткая информация о данных
 Датасет представляет собой базу, в которой содержатся сведения о производственных показателях шести цехов завода за последние 60 месяцев (с января 2018 по декарь 2022 г.).
-[Ссылка на исходный датасет](https://drive.google.com/file/d/1X_EJEfERiXki0SKtbnCL9JDv49Go14lF/view?usp=sharing).
+[Ссылка на исходный датасет](https://github.com/ConstantinVP/DS_learning/tree/master/Final%20project/Data).
   
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 

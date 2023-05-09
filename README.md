@@ -6,3 +6,4 @@
 * [Проект 4. Решение задачи классификации клиентов банка](https://github.com/ConstantinVP/DS_learning/tree/master/Project%204/README.md)
 * [Проект 5. Решение задачи регрессии](https://github.com/ConstantinVP/DS_learning/tree/master/Project%205/README.md)
 * [Проект 6. Сегментирование клиентов онлайн-магазина подарков](https://github.com/ConstantinVP/DS_learning/tree/master/Project%206/README.md)
+* [Финальный проект. Предсказание численности основных производственных рабочих в цехе](https://github.com/ConstantinVP/DS_learning/tree/master/Final_project/README.md)
